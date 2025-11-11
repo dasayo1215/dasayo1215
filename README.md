@@ -9,7 +9,7 @@ Webエンジニアとして、Laravel × React を中心にフルスタック開
 
 - 現在、プログラミングスクールにて実践的なWebアプリ開発を学習中  
 - Docker / WSL2 環境での開発、API設計、フロントエンド実装まで一貫して実装
-- ChatGPTを活用したコーディング補助やドキュメント整備を実践  
+- ChatGPTを活用したコーディング補助やREADMEを実践  
 
 ---
 
@@ -29,7 +29,7 @@ Webエンジニアとして、Laravel × React を中心にフルスタック開
 | **TodoApp_JavaScript** | DOM操作・イベント駆動を学習したToDoアプリ | [StackBlitzで開く](https://stackblitz.com/edit/vitejs-vite-vng33utd) |
 | **TodoApp_React** | useState と props による状態管理を実装したReact版ToDoアプリ | [StackBlitzで開く](https://stackblitz.com/edit/vitejs-vite-4guec2dm) |
 | **WeatherApp_JavaScript** | OpenWeather API を用いた天気情報表示アプリ | [StackBlitzで開く](https://stackblitz.com/edit/vitejs-vite-9r4ridqs) |
-| **TodoApp_TypeScript** | TypeScript でリファクタした型安全なToDoアプリ | [StackBlitzで開く](https://stackblitz.com/edit/vitejs-vite-zypfgile) |
+| **TodoApp_TypeScript** | TypeScript でリファクタしたToDoアプリ | [StackBlitzで開く](https://stackblitz.com/edit/vitejs-vite-zypfgile) |
 
 ---
 
