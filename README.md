@@ -28,9 +28,10 @@ Webエンジニアとして、Laravel × React を中心にフルスタック開
 |-----------|------|--------|
 | **TodoApp_JavaScript** | DOM操作・イベント駆動を学習したToDoアプリ | [StackBlitzで開く](https://stackblitz.com/edit/vitejs-vite-vng33utd) |
 | **TodoApp_React** | useState と props による状態管理を実装したReact版ToDoアプリ | [StackBlitzで開く](https://stackblitz.com/edit/vitejs-vite-4guec2dm) |
-| **WeatherApp_JavaScript** | OpenWeather API を用いた天気情報表示アプリ | [StackBlitzで開く](https://stackblitz.com/edit/vitejs-vite-9r4ridqs) |
 | **TodoApp_TypeScript** | TypeScript でリファクタしたToDoアプリ | [StackBlitzで開く](https://stackblitz.com/edit/vitejs-vite-zypfgile) |
-| **TodoApp_Vue** | Vue 3（Composition API）で実装したToDoアプリ | [StackBlitzで開く](https://stackblitz.com/edit/vitejs-vite-93iti4o9) |
+| **TodoApp_Vue_Js** | Vue 3（Composition API）+JavaScriptで実装したToDoアプリ | [StackBlitzで開く](https://stackblitz.com/edit/vitejs-vite-93iti4o9) |
+| **TodoApp_Vue_Ts** | Vue 3（Composition API）+Typescriptで実装したToDoアプリ | [StackBlitzで開く](https://stackblitz.com/edit/vitejs-vite-j7zymflg) |
+| **WeatherApp_JavaScript** | OpenWeather API を用いた天気情報表示アプリ | [StackBlitzで開く](https://stackblitz.com/edit/vitejs-vite-9r4ridqs) |
 
 ---
 
